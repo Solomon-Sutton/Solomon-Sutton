@@ -4,15 +4,15 @@
 
 - Coding (Python, front-end web development)
 
-- Electronics (PCB design using [Kicad](https://www.kicad.org/), digital electronics)
+- Electronics (PCB design using [Kicad](https://www.kicad.org/) and digital electronics)
 
 - Video editing and VFX created in [Blender](https://blender.org)
 
-😄 Pronouns: He/Him
-
 <h3>Stats: </h3>
-![Github stats](https://github-readme-stats.vercel.app/api?username=solomon-sutton)
+[![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomon-sutton)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>How to contact me 📫: </h3>
 
 Email: **CalculatingCreator@gmail.com**
+
+😄 Pronouns: He/Him
