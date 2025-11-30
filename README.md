@@ -9,10 +9,10 @@
 - Video editing and VFX created in [Blender](https://blender.org)
 
 <h3>Stats: </h3>
-[![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomon-sutton)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3>How to contact me 📫: </h3>
 
 Email: **CalculatingCreator@gmail.com**
 
-😄 Pronouns: He/Him
+
