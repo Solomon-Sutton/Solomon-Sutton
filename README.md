@@ -8,9 +8,6 @@
 
 - Video editing and VFX created in [Blender](https://blender.org)
 
-<h3>Stats: </h3>
-
-
 <h3>How to contact me 📫: </h3>
 
 Email: **CalculatingCreator@gmail.com**
